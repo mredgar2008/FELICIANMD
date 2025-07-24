@@ -31,7 +31,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363398101781980@newsletter',
-                        newsletterName: "RAHEEM-XMD-2 ADULT MENU🔞🔞₊",
+                        newsletterName: "MR....EDGAR-XMD-2 ADULT MENU🔞🔞₊",
                         serverMessageId: 143
                     }
                 }
